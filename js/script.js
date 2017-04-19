@@ -76,7 +76,8 @@ function createCloud() {
       z: z,
       a: a,
       s: s,
-      speed: 0.1 * Math.random()
+//       speed: 0.1 * Math.random()
+      speed: 0.04 * Math.random() - 0.02
     }
     var t =
       'translateX( ' +
