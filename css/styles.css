@@ -13,6 +13,14 @@ body {
 	overflow: hidden;
 }
 
+header {
+  z-index: 1
+}
+
+footer {
+  z-index: 1
+}
+
 #viewport {
 	-webkit-perspective: 1000px; 
 	-moz-perspective: 1000px; 
