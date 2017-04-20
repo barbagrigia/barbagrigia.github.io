@@ -207,6 +207,13 @@ a:hover {
     height: 1px;
     content: "";
 }
+.footer__split {
+    background: #e5e5e5;
+    display: block;
+    margin: 20px auto 30px;
+    height: 1px;
+    width: 60px
+}
 .footer__heart {
 	display: inline-block;
 	color: #d0171f;
