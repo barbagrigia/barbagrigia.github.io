@@ -94,10 +94,10 @@ body {
 
 .footer {
     position: relative;
-    margin-top: 15px;
-    padding-top: 15px;
+    margin-top: 1em;
+    padding-top: 1em;
     text-align: center;
-    font-size: 85%;
+    font-size: .85em;
     color: #9c9c9c,
     z-index: 1
 }
