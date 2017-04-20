@@ -67,6 +67,37 @@ a:hover {
 }
 
 /**
+ * Wrapper
+ */
+.wrapper {
+    max-width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 30px;
+    padding-left: 30px;
+
+    @include media-query($on-laptop) {
+        max-width: 930px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}
+
+/**
+ * Clearfix
+ */
+.wrapper {
+}
+.wrapper:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.home {
+}
+
+/**
 * Clouds
 */
 #viewport {
