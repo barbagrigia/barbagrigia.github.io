@@ -1,1 +1,1 @@
-##### MIT [Vladimir Trukhin](https://github.com/barbagrigia) (2016)
+##### MIT [Vladimir Trukhin](https://github.com/barbagrigia) &copy; MMXVI
