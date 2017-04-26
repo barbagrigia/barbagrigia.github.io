@@ -1,1 +1,1 @@
-##### MIT [Vlad Trukhin](https://github.com/barbagrigia) &copy; MMXVI
+##### MIT &copy; MMXVI [Vlad Trukhin](https://github.com/barbagrigia)
