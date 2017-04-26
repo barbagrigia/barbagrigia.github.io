@@ -1,3 +1,3 @@
 ***
 
-** MIT © MMXVI ** [Vlad Trukhin](https://github.com/barbagrigia)
+**MIT © MMXVI** [Vlad Trukhin](https://github.com/barbagrigia)
