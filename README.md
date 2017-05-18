@@ -1,3 +1,3 @@
 ## License
 
-**[MIT](LICENSE) © MMXVI** [Vlad Trukhin](https://twitter.com/barba_grigia)
+**[MIT](LICENSE) © MMXVII** [Vlad Trukhin](https://twitter.com/barba_grigia)
